@@ -8,7 +8,7 @@ Tooba Nadeem Khan 18558
 
 Vishal 18562
 
-1. # Business Understanding 
+# 1. Business Understanding 
 Uber Technologies Inc. is a peer-to-peer ride sharing platform. Uber's platform connects the drivers who can drive to a customer's location. Uber uses machine learning for calculating pricing to find the optimal positioning of cars to maximize profits. We have used a public Uber trip dataset to answer the following business questions:
 
 - Days when Pickup happen regularly
@@ -16,7 +16,7 @@ Uber Technologies Inc. is a peer-to-peer ride sharing platform. Uber's platform 
 - Pickup distribution in the Zones
 - Pickup distribution on the map, and finding out the highly clustered/hotspot areas
 
-1. # Data Understanding
+# 2. Data Understanding
 **Dataset:<https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city?select=uber-raw-data-aug14.csv>** 
 
 <https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city?select=uber-raw-data-sep14.csv> 
